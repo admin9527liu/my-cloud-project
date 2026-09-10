@@ -35,3 +35,4 @@ This project is used for the Cloud Computing Technology Application practical tr
 ## GitHub 远程协作实训
 
 本项目已完成 Git 分支创建、代码提交、分支合并以及 GitHub 远程仓库协作。
+远程分支修改：GitHub 远程协作实训
